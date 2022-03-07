@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Skills>
+<string-array name="Skills">
+	<skill>Test Design</skill>
+	<skill>Writing bug reports</skill>
+	<skill>Theory of testing</skill>
+	<skill>Web testing</skill>
+	<skill>Mobile testing</skill>
+	<skill>REST API testing</skill>
+	<skill>Charles Proxy</skill>
+	<skill>Fiddler</skill>
+	<skill>Android Studio</skill>
+	<skill>ADB</skill>
+	<skill>Postman</skill>
+	<skill>Linux Terminal</skill>
+	<skill>Databases</skill>
+	<skill>GIT</skill>
+	<skill>Pyton</skill>
+</string-array>
+</Skills>
