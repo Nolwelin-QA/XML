@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bug_report>
+  <Id>1</Id>
+  <Title>[Mobile] No internet connection pop-up: closes when touching the screen outside of the popup, not just the OK button</Title>
+  <STR>
+    <First>Open the application - link</First>
+    <Second>Turn off the Internet on the phone</Second>
+    <Third>Tap on the screen outside the pop-up</Third>
+  </STR>
+  <Expected_result>Pop-up doesn't close</Expected_result>
+  <Actual_result>Pop-up closes</Actual_result>
+  <Environment>
+    <Device_type>Xiaomi 11</Device_type>
+    <OS>Android 12, MIUI 12.5</OS>
+    <Software_version>1.2</Software_version>
+  </Environment>
+</bug_report>
